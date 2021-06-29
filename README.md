@@ -5,6 +5,6 @@
 
 * port is : /userapi
 
-* Data canfiltered using any column
+* Data can be filtered using any column
 
 * Tested In Postman
